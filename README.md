@@ -25,7 +25,7 @@ The tutorial explained the following Vulkan concepts (https://vulkan-tutorial.co
 
 A screenshot showcasing the project's output can be found below:
 
-![Screenshot](screenshots/screenshot_1.png)
+![Screenshot](screenshots/screen_shot_1.png)
 
 ## Building and Running
 

@@ -20,6 +20,7 @@ The tutorial explained the following Vulkan concepts (https://vulkan-tutorial.co
 - **QueueFamilyIndices**: Defines and uses structures related to Vulkan queue families.
 - **Shaders**: Includes vertex and fragment shaders used in the project.
 - **Model Loading**: Demonstrates loading models with multiple textures.
+- **Others**: Vertex buffers, Uniform buffers, Texture mapping, Depth buffering, Loading models, Generating Mipmaps, Multisampling.
 
 ## Screenshots
 

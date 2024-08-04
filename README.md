@@ -15,12 +15,6 @@ The tutorial explained the following Vulkan concepts (https://vulkan-tutorial.co
 - **Multiple Subpasses**: Utilizes multiple subpasses within a render pass to optimize rendering operations.
 - **Others**: Vertex buffers, Uniform buffers, Texture mapping, Depth buffering, Loading models, Generating Mipmaps, Multisampling.
   
-## Project Structure
-
-- **VulkanSetup**: Handles the Vulkan initialization and setup.
-- **QueueFamilyIndices**: Defines and uses structures related to Vulkan queue families.
-- **Shaders**: Includes vertex and fragment shaders used in the project.
-- **Model Loading**: Demonstrates loading models with multiple textures.
 
 ## Screenshots
 

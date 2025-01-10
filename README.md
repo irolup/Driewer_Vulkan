@@ -25,7 +25,3 @@ A screenshot showcasing the project's output can be found below:
 ## Building and Running
 
 To build and run the project, follow the instructions provided in the `Makefile`.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
